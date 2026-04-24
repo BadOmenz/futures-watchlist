@@ -80,6 +80,25 @@ The frontend formats timestamps and derives UI signals.
 
 ---
 
+## Project Structure
+
+```
+project02_futures_watchlist/
+│
+├── backend/
+│   └── main.py
+│
+├── frontend/
+│   ├── src/
+│   │   ├── App.tsx
+│   │   └── services/
+│   │       └── api.ts
+│   │
+│   └── package.json
+│
+└── README.md
+```
+
 ## How to Run
 
 ### Backend
